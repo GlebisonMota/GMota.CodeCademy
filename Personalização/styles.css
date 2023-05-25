@@ -1,0 +1,65 @@
+
+body {
+    background-image: url('https://static.vecteezy.com/ti/vetor-gratis/p2/2835401-azul-claro-abstrato-fundo-colorido-ilustracao-em-meio-tom-estilo-com-gradiente-fundo-para-designers-de-interface-do-usuario-vetor.jpg');
+    background-size: cover;
+}  
+
+h1 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 30px;
+}
+h2 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 20px;
+    margin: 50px;
+}
+
+table {
+    position:relative;
+    margin: 30px auto;   
+}
+
+.box th {
+    color: rgb(0, 0, 0);
+    position:relative;
+    margin: 50px auto;
+    padding: 15px;
+    border: solid 1px rgb(255, 255, 255);
+    font-size: 20px;
+    background-color: rgb(0, 235, 149);
+    border-bottom: solid rgb(223, 32, 32)
+}
+
+.box td {
+    color: rgb(0, 0, 0);
+    background-color: aquamarine;
+    position:relative;
+    margin: 50px auto;
+    padding: 15px;
+    border: solid 1px rgb(255, 255, 255);
+    border-bottom: solid rgb(223, 32, 32)
+}
+
+.title th {
+    color: rgb(0, 0, 0);
+    position:relative;
+    margin: 50px auto;
+    padding: 10px;
+    border: solid 1px rgb(255, 255, 255);
+    font-size: 20px;
+    background-color: rgb(0, 235, 149);
+    border-bottom: solid rgb(223, 32, 32)
+}
+.title td {
+    color: rgb(0, 0, 0);
+    background-color: aquamarine;
+    position:relative;
+    margin: 50px auto;
+    padding: 10px 5px;
+    border: solid 1px rgb(255, 255, 255);
+    border-bottom: solid rgb(223, 32, 32);
+} 
